@@ -1,0 +1,6 @@
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\b\Common\Debug\netstandard2.1\Common.deps.json
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\b\Common\Debug\netstandard2.1\Common.dll
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\i\Common\Debug\netstandard2.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\i\Common\Debug\netstandard2.1\Common.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\i\Common\Debug\netstandard2.1\Common.AssemblyInfo.cs
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\i\Common\Debug\netstandard2.1\Common.dll

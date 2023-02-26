@@ -1,0 +1,2 @@
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\LAB14_Mandelbrot\MandelbrotCommon\MandelbrotCommon.csproj;neutral
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\LAB14_Mandelbrot\ShowFixedMandelbrot\ShowFixedMandelbrot.csproj;x86

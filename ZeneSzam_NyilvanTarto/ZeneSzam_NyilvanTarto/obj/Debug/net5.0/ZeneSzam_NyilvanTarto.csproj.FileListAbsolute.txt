@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\bin\Debug\net5.0\ZeneSzam_NyilvanTarto.exe
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\bin\Debug\net5.0\ZeneSzam_NyilvanTarto.deps.json
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\bin\Debug\net5.0\ZeneSzam_NyilvanTarto.runtimeconfig.json
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\bin\Debug\net5.0\ZeneSzam_NyilvanTarto.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\bin\Debug\net5.0\ZeneSzam_NyilvanTarto.dll
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\bin\Debug\net5.0\ref\ZeneSzam_NyilvanTarto.dll
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\bin\Debug\net5.0\ZeneSzam_NyilvanTarto.pdb
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\obj\Debug\net5.0\ZeneSzam_NyilvanTarto.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\obj\Debug\net5.0\ZeneSzam_NyilvanTarto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\obj\Debug\net5.0\ZeneSzam_NyilvanTarto.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\obj\Debug\net5.0\ZeneSzam_NyilvanTarto.AssemblyInfo.cs
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\obj\Debug\net5.0\ZeneSzam_NyilvanTarto.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\obj\Debug\net5.0\ZeneSzam_NyilvanTarto.dll
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\obj\Debug\net5.0\ref\ZeneSzam_NyilvanTarto.dll
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\obj\Debug\net5.0\ZeneSzam_NyilvanTarto.pdb
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZeneSzam_NyilvanTarto\ZeneSzam_NyilvanTarto\obj\Debug\net5.0\ZeneSzam_NyilvanTarto.genruntimeconfig.cache

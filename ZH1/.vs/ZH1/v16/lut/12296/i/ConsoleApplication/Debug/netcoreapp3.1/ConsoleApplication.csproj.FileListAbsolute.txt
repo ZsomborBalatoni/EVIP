@@ -1,0 +1,10 @@
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\b\ConsoleApplication\Debug\netcoreapp3.1\ConsoleApplication.exe
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\b\ConsoleApplication\Debug\netcoreapp3.1\ConsoleApplication.deps.json
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\b\ConsoleApplication\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.json
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\b\ConsoleApplication\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\b\ConsoleApplication\Debug\netcoreapp3.1\ConsoleApplication.dll
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\i\ConsoleApplication\Debug\netcoreapp3.1\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\i\ConsoleApplication\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\i\ConsoleApplication\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfo.cs
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\i\ConsoleApplication\Debug\netcoreapp3.1\ConsoleApplication.dll
+C:\Users\Dell\Documents\Egyetem\3.szemeszter\EVIP\repos\ZH1\.vs\ZH1\v16\lut\0\i\ConsoleApplication\Debug\netcoreapp3.1\ConsoleApplication.genruntimeconfig.cache
